@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\LinearDataStructures\DeapthFirstSearchOfAllDirectories\bin\Debug\netcoreapp3.1\DeapthFirstSearchOfAllDirectories.exe
+C:\Users\User\source\repos\LinearDataStructures\DeapthFirstSearchOfAllDirectories\bin\Debug\netcoreapp3.1\DeapthFirstSearchOfAllDirectories.deps.json
+C:\Users\User\source\repos\LinearDataStructures\DeapthFirstSearchOfAllDirectories\bin\Debug\netcoreapp3.1\DeapthFirstSearchOfAllDirectories.runtimeconfig.json
+C:\Users\User\source\repos\LinearDataStructures\DeapthFirstSearchOfAllDirectories\bin\Debug\netcoreapp3.1\DeapthFirstSearchOfAllDirectories.runtimeconfig.dev.json
+C:\Users\User\source\repos\LinearDataStructures\DeapthFirstSearchOfAllDirectories\bin\Debug\netcoreapp3.1\DeapthFirstSearchOfAllDirectories.dll
+C:\Users\User\source\repos\LinearDataStructures\DeapthFirstSearchOfAllDirectories\bin\Debug\netcoreapp3.1\DeapthFirstSearchOfAllDirectories.pdb
+C:\Users\User\source\repos\LinearDataStructures\DeapthFirstSearchOfAllDirectories\obj\Debug\netcoreapp3.1\DeapthFirstSearchOfAllDirectories.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LinearDataStructures\DeapthFirstSearchOfAllDirectories\obj\Debug\netcoreapp3.1\DeapthFirstSearchOfAllDirectories.AssemblyInfo.cs
+C:\Users\User\source\repos\LinearDataStructures\DeapthFirstSearchOfAllDirectories\obj\Debug\netcoreapp3.1\DeapthFirstSearchOfAllDirectories.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LinearDataStructures\DeapthFirstSearchOfAllDirectories\obj\Debug\netcoreapp3.1\DeapthFirstSearchOfAllDirectories.dll
+C:\Users\User\source\repos\LinearDataStructures\DeapthFirstSearchOfAllDirectories\obj\Debug\netcoreapp3.1\DeapthFirstSearchOfAllDirectories.pdb
+C:\Users\User\source\repos\LinearDataStructures\DeapthFirstSearchOfAllDirectories\obj\Debug\netcoreapp3.1\DeapthFirstSearchOfAllDirectories.genruntimeconfig.cache
