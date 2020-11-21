@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\LinearDataStructures\PrintAllDirectoriesOfDiskCUsingQueue\bin\Debug\netcoreapp3.1\PrintAllDirectoriesOfDiskCUsingQueue.exe
+C:\Users\User\source\repos\LinearDataStructures\PrintAllDirectoriesOfDiskCUsingQueue\bin\Debug\netcoreapp3.1\PrintAllDirectoriesOfDiskCUsingQueue.deps.json
+C:\Users\User\source\repos\LinearDataStructures\PrintAllDirectoriesOfDiskCUsingQueue\bin\Debug\netcoreapp3.1\PrintAllDirectoriesOfDiskCUsingQueue.runtimeconfig.json
+C:\Users\User\source\repos\LinearDataStructures\PrintAllDirectoriesOfDiskCUsingQueue\bin\Debug\netcoreapp3.1\PrintAllDirectoriesOfDiskCUsingQueue.runtimeconfig.dev.json
+C:\Users\User\source\repos\LinearDataStructures\PrintAllDirectoriesOfDiskCUsingQueue\bin\Debug\netcoreapp3.1\PrintAllDirectoriesOfDiskCUsingQueue.dll
+C:\Users\User\source\repos\LinearDataStructures\PrintAllDirectoriesOfDiskCUsingQueue\bin\Debug\netcoreapp3.1\PrintAllDirectoriesOfDiskCUsingQueue.pdb
+C:\Users\User\source\repos\LinearDataStructures\PrintAllDirectoriesOfDiskCUsingQueue\obj\Debug\netcoreapp3.1\PrintAllDirectoriesOfDiskCUsingQueue.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LinearDataStructures\PrintAllDirectoriesOfDiskCUsingQueue\obj\Debug\netcoreapp3.1\PrintAllDirectoriesOfDiskCUsingQueue.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LinearDataStructures\PrintAllDirectoriesOfDiskCUsingQueue\obj\Debug\netcoreapp3.1\PrintAllDirectoriesOfDiskCUsingQueue.AssemblyInfo.cs
+C:\Users\User\source\repos\LinearDataStructures\PrintAllDirectoriesOfDiskCUsingQueue\obj\Debug\netcoreapp3.1\PrintAllDirectoriesOfDiskCUsingQueue.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LinearDataStructures\PrintAllDirectoriesOfDiskCUsingQueue\obj\Debug\netcoreapp3.1\PrintAllDirectoriesOfDiskCUsingQueue.dll
+C:\Users\User\source\repos\LinearDataStructures\PrintAllDirectoriesOfDiskCUsingQueue\obj\Debug\netcoreapp3.1\PrintAllDirectoriesOfDiskCUsingQueue.pdb
+C:\Users\User\source\repos\LinearDataStructures\PrintAllDirectoriesOfDiskCUsingQueue\obj\Debug\netcoreapp3.1\PrintAllDirectoriesOfDiskCUsingQueue.genruntimeconfig.cache

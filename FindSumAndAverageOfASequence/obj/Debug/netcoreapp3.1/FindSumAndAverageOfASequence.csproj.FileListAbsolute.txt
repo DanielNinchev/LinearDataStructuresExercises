@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\LinearDataStructures\FindSumAndAverageOfASequence\bin\Debug\netcoreapp3.1\FindSumAndAverageOfASequence.exe
+C:\Users\User\source\repos\LinearDataStructures\FindSumAndAverageOfASequence\bin\Debug\netcoreapp3.1\FindSumAndAverageOfASequence.deps.json
+C:\Users\User\source\repos\LinearDataStructures\FindSumAndAverageOfASequence\bin\Debug\netcoreapp3.1\FindSumAndAverageOfASequence.runtimeconfig.json
+C:\Users\User\source\repos\LinearDataStructures\FindSumAndAverageOfASequence\bin\Debug\netcoreapp3.1\FindSumAndAverageOfASequence.runtimeconfig.dev.json
+C:\Users\User\source\repos\LinearDataStructures\FindSumAndAverageOfASequence\bin\Debug\netcoreapp3.1\FindSumAndAverageOfASequence.dll
+C:\Users\User\source\repos\LinearDataStructures\FindSumAndAverageOfASequence\bin\Debug\netcoreapp3.1\FindSumAndAverageOfASequence.pdb
+C:\Users\User\source\repos\LinearDataStructures\FindSumAndAverageOfASequence\obj\Debug\netcoreapp3.1\FindSumAndAverageOfASequence.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LinearDataStructures\FindSumAndAverageOfASequence\obj\Debug\netcoreapp3.1\FindSumAndAverageOfASequence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LinearDataStructures\FindSumAndAverageOfASequence\obj\Debug\netcoreapp3.1\FindSumAndAverageOfASequence.AssemblyInfo.cs
+C:\Users\User\source\repos\LinearDataStructures\FindSumAndAverageOfASequence\obj\Debug\netcoreapp3.1\FindSumAndAverageOfASequence.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LinearDataStructures\FindSumAndAverageOfASequence\obj\Debug\netcoreapp3.1\FindSumAndAverageOfASequence.dll
+C:\Users\User\source\repos\LinearDataStructures\FindSumAndAverageOfASequence\obj\Debug\netcoreapp3.1\FindSumAndAverageOfASequence.pdb
+C:\Users\User\source\repos\LinearDataStructures\FindSumAndAverageOfASequence\obj\Debug\netcoreapp3.1\FindSumAndAverageOfASequence.genruntimeconfig.cache
